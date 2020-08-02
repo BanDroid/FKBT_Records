@@ -1,0 +1,29 @@
+* {
+    display:box;
+}
+body{
+    margin:0;
+    padding:0;
+    background:black;
+    align-items: center;
+}
+#header-intro{
+    color:white;
+    align-items: center;
+    text-align: center;
+    background:black;
+    padding:30px;
+}
+#header-intro h1{
+    font-family: 'Chopsic';
+    font-weight:normal;
+}
+header{
+    padding:0px;
+}
+#icon{
+    width:200px;
+    height:200px;
+    border:3px solid rgba(0, 0, 200, 0.5);
+    border-radius:20%;
+}
